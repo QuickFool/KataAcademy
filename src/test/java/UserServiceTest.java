@@ -99,4 +99,14 @@ public class UserServiceTest {
         }
     }
 
+    @Override
+    public String toString() {
+        final StringBuffer sb = new StringBuffer("UserServiceTest{");
+        sb.append("userService=").append(userService);
+        sb.append(", testName='").append(testName).append('\'');
+        sb.append(", testLastName='").append(testLastName).append('\'');
+        sb.append(", testAge=").append(testAge);
+        sb.append('}');
+        return sb.toString();
+    }
 }
