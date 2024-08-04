@@ -10,8 +10,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        UserDao userDao = new UserDaoJDBCImpl();
-        UserService userService = new UserServiceImpl(userDao);
+        UserService userService = new UserServiceImpl();
 
         userService.createUsersTable();
 
