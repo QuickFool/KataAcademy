@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25ba5b31-dc72-416f-8afb-0f26fea8a33d" name="Changes" comment="init commit Finishh" />
+    <list default="true" id="25ba5b31-dc72-416f-8afb-0f26fea8a33d" name="Changes" comment="Finish commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Task1" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -128,7 +130,7 @@
       <workItem from="1723303838100" duration="3998000" />
       <workItem from="1723313878961" duration="681000" />
       <workItem from="1723360225965" duration="8236000" />
-      <workItem from="1723368495180" duration="4320000" />
+      <workItem from="1723368495180" duration="4940000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1722765869609</created>
@@ -186,7 +188,21 @@
       <option name="project" value="LOCAL" />
       <updated>1723372684148</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Finish commit">
+      <created>1723373014839</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1723373014839</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Finish commit">
+      <created>1723373069666</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1723373069666</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,7 +219,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Task1" />
+                        <option value="Task1.1.5" />
                       </list>
                     </value>
                   </entry>
@@ -223,7 +239,8 @@
     <MESSAGE value="init commit new" />
     <MESSAGE value="init commit Finish" />
     <MESSAGE value="init commit Finishh" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit Finishh" />
+    <MESSAGE value="Finish commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
